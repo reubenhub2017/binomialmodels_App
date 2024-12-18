@@ -78,10 +78,6 @@ class CRRModel:
                             self.option.r, steps, self.option.option_type, self.option.american)
         return tree.calculate_price(u, d, q)
 
-
-x = BinomialTree()
-
-x.calculate_price()
 # Tian Model Class
 
 
