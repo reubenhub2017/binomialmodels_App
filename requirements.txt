@@ -4,6 +4,7 @@ pandas
 plotly
 matplotlib
 scipy
+scikit
 scikit-learn
 openpyxl
 xlsxwriter
